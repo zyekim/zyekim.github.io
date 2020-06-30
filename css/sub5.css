@@ -1,0 +1,39 @@
+/* visual */
+#sub4_visual {width:100%;margin-top:130px}
+#sub4_visual img {width:100%; height:150px;}
+
+
+/* subWrap */
+#contWrap {width:1200px;margin:auto;height:auto}
+#contWrap #sub5{width:1200px;padding-top:50px;border-bottom:1px solid #aaa}
+#contWrap #sub5 h2 {padding-bottom:20px;color:#555}
+#contWrap #nav {width:200px;margin-top:100px;float:left;background-color: #fff;}
+#contWrap #nav ul.navi {width:200px;text-indent:10px;margin-top:1000px}
+#contWrap #nav ul.navi li.group {margin-bottom:3px}
+#contWrap #nav ul.navi,
+#contWrap #nav ul.navi ul.su {list-style:none;margin:0;padding:0}
+div.title {height:35px;margin-bottom:2px;line-height:30px;color:#fff;background-color: #369;
+cursor:pointer}
+#contWrap #nav ul.navi ul.sub li {height:35px;margin-bottom:2px;line-height:30px;
+background-color: #eee;}
+#contWrap #nav ul.navi ul.sub li a{text-decoration:none;display:block;width:100%;height:100%;
+color:#000}
+#contWrap #nav ul.navi ul.sub li:hover {background-color: #ccc}
+
+
+/* table */
+#cont1 {width:1200px;height:1700px}
+#cont1 .box8 {width:700px;height:100px;margin:auto}
+#cont1 .box8 .tit {margin-top:100px;color:#369}
+#cont1 .box8 .tit h4 {font-size:22px}
+#cont1 .box8 .tit p {margin-top:5px;font-size:16px}
+#cont1 .box8 .sub1 p {margin-top:8px;width:900px;padding:20px 15px;
+font-size:14px;background-color: #f8efde;}
+#cont1 .box8 .sub2 h4 {margin-top:13px}
+#cont1 .box8 .sub2 form {margin-top:13px}
+#cont1 .box8 .sub2 form textarea {text-align:justify;width:930px;font-size:16px;}
+#cont1 .box8 div {float:left;margin-top:30px}
+.cellphone {font-size:17px;color:#369;text-align:center;width:200px;height:50px;
+line-height:50px;border-radius:30px;border:2px solid #369}
+.ipin {font-size:17px;color:#369;text-align:center;width:200px;height:50px;
+line-height:50px;border-radius:30px;border:2px solid #369}
